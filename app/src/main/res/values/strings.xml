@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLCrud_18111167_IrvanMaulana</string>
+
+    <array name="departments">
+        <item>Technical</item>
+        <item>Support</item>
+        <item>Researce and Development</item>
+        <item>Marketing</item>
+        <item>Human Resource</item>
+    </array>
+</resources>
